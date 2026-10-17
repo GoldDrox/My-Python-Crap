@@ -1,39 +1,39 @@
-# def greeting():
-#     print("Hello, World!")
+def greeting():
+    print("Hello, World!")
 
-# def name(stock):
-#     print("User", stock)
+def name(stock):
+    print("User", stock)
 
-# def age(octane, hecate):
-#     print(16, octane, hecate)
+def age(octane, hecate):
+    print(16, octane, hecate)
 
-# greeting()
-# name("Rici")
-# age("Years Old", "Im Old!")
+greeting()
+name("Rici")
+age("Years Old", "Im Old!")
 
 
 
-# def multi(num1, num2):
-#     result = num1 * num2
-#     print(result)
+def multi(num1, num2):
+    result = num1 * num2
+    print(result)
 
-# def add(num1, num2):
-#     result = num1 + num2
-#     print(result)
+def add(num1, num2):
+    result = num1 + num2
+    print(result)
 
-# def neg(num1, num2):
-#     result = num1 - num2
-#     print(result)
+def neg(num1, num2):
+    result = num1 - num2
+    print(result)
 
-# def multi2 (num1, num2):
-#     result = num1 * num2
-#     return result
+def multi2 (num1, num2):
+    result = num1 * num2
+    return result
 
-# multi(25, 20)
-# add(12, 8)
-# neg(90, 80)
-# newvar = multi2(25, 20)
-# print(newvar)
+multi(25, 20)
+add(12, 8)
+neg(90, 80)
+newvar = multi2(25, 20)
+print(newvar)
 
 
 
